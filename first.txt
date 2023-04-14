@@ -3,3 +3,4 @@ Gitの練習を始めます。
 エラーが出たので二日目よ。
 ・git add
 ・git commit
+・git rm
